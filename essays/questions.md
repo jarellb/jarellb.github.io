@@ -18,7 +18,7 @@ In my ICS 314 class, we’ve been taught how to ask smart questions. Smart quest
 
 ## A Question That Lacks Context
 
-<img width="600px" class="rounded float-start pe-4" src="../img/smart-questions/bad-question.png">
+<img width="600px" src="../img/smart-questions/bad-question.png">
 
 <a href="https://stackoverflow.com/questions/79398853/ar-flutter-plugin-updated-assets-file-load-issue" target="_blank"><strong>StackOverflow Thread</strong></a>
 
@@ -26,7 +26,7 @@ This is an example of a poorly structured question. This user reports an issue t
 
 ## A Well-Structured Question
 
-<img width="600px" class="rounded float-start pe-4" src="../img/smart-questions/good-question.png">
+<img width="600px" src="../img/smart-questions/good-question.png">
 
 <a href="https://stackoverflow.com/questions/33194384/exception-in-thread-main-org-hibernate-mappingexception-unknown-entity" target="_blank"><strong>StackOverflow Thread</strong></a>
 
