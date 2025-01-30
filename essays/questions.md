@@ -37,3 +37,5 @@ Including the full error message is especially useful because it gives precise d
 ## It's About the Context
 
 If you didn’t already notice, providing enough context is key. The more details you give, the better others can understand and solve the problem. A well-structured question saves time for both the asker and responder and increases the likelihood of success. Learning how to ask smart questions is an essential skill for any programmer, as it not only helps with debugging but also improves overall communication in technical discussions. In the end, programming is problem-solving, and asking the right questions is a crucial part of that process.
+
+AI (ChatGPT) assisted in writing this essay by making the titles & headers, and improving transitions & flow.
