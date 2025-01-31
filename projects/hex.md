@@ -15,7 +15,7 @@ labels:
 summary: "An elaborate open data portal that won 2nd at the Hawaii Annual Code Challenge"
 ---
 
-<img class="img-fluid" src="../img/hex/hex-header.png">
+<img class="img-fluid" src="../img/hex/hacc-team.jpg">
 
 The HEX Open Data Portal was a project I worked on that won 2nd place at the 2024 Hawaii Annual Code Challenge. This project strengthened my UI skills and introduced me to backend management and AI training. It was implemented using Next.js, Firebase, Docker, and Flask.
 
