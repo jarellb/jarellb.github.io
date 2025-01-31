@@ -11,6 +11,7 @@ labels:
   - Docker
   - Flask
   - AI
+  - Hackathon
 summary: "An elaborate open data portal that won 2nd at the Hawaii Annual Code Challenge"
 ---
 
