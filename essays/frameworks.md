@@ -11,7 +11,7 @@ labels:
   - Web Development
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/purpose/web-dev.png">
+<img width="100px" class="rounded float-start pe-4" src="../img/frameworks/web-dev.png">
 
 ## The Frustrations of UI Development
 
