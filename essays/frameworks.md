@@ -4,7 +4,7 @@ type: essay
 title: "The Frustrations and Lessons of Frontend Development"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
