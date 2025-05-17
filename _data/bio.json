@@ -41,6 +41,17 @@
   ],
   "work": [
     {
+      "company": "FCH Enterprises Inc. (via Piʻikū Co.)",
+      "position": "Software Engineer Intern",
+      "startDate": "2025-03-31",
+      "endDate": "Present",
+      "summary": "Frontend Development for Zippy's",
+      "highlights": [
+        "Implement UI designs from Figma",
+        "Conduct user research"
+      ]
+    },
+    {
       "company": "Tochigami",
       "position": "Web Application Developer",
       "website": "https://hitogami.com/",
